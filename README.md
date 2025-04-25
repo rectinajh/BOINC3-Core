@@ -1,4 +1,8 @@
 # BOINC³: Ignite Your Soul, Redefining Scientific Computing
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+[![Zero Knowledge Proof](https://img.shields.io/badge/zkSNARKs-Groth16-blueviolet)](https://z.cash/technology/zksnarks/)
+![Rust](https://img.shields.io/badge/rust-🦀-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 Welcome to **BOINC³**, a decentralized computing platform that integrates BOINC with Ethereum and Web3 technologies. Our mission is to revolutionize scientific research by utilizing decentralized compute power, privacy protection, and autonomous incentives.
 
